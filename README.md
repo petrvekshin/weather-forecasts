@@ -1,6 +1,6 @@
 # A look at how accurate weather forecasts are
 
-**Weather forecasts** for [Artyomovsky, RU](https://en.wikipedia.org/wiki/Artyomovsky,_Sverdlovsk_Oblast) have been collected regularly since February 2022. The **forecasts** are:
+**Weather forecasts** for [Artyomovsky, Russia](https://en.wikipedia.org/wiki/Artyomovsky,_Sverdlovsk_Oblast) have been collected regularly since February 2022. The **forecasts** are:
 - Gismeteo [10-day forecast](https://www.gismeteo.com/weather-artemovsky-4495/tomorrow);
 - rp5 [6-day forecast](https://rp5.ru/Weather_in_Artyomovsky);
 - Yandex.Weather [10-day forecast](https://yandex.com/weather/artyomovsky/details);
