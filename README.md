@@ -6,7 +6,7 @@
 - Yandex.Weather [10-day forecast](https://yandex.com/weather/artyomovsky/details);
 - [1-week and GRAPHS forecasts](https://meteoinfo.ru/en/forecasts-eng/russia/sverdlovsk-area/artenovsky) by Hydrometeorological Center of Russia.
 
-The weather parameters selected for comparison are:
+The **weather parameters** selected for comparison are:
 - temperature;
 - atmospheric pressure;
 - relative humidity;
