@@ -5,6 +5,7 @@
 - rp5 [6-day forecast](https://rp5.ru/Weather_in_Artyomovsky);
 - Yandex.Weather [10-day forecast](https://yandex.com/weather/artyomovsky/details);
 - [1-week and GRAPHS forecasts](https://meteoinfo.ru/en/forecasts-eng/russia/sverdlovsk-area/artenovsky) by Hydrometeorological Center of Russia.
+
 The weather parameters selected for comparison are:
 - temperature;
 - atmospheric pressure;
